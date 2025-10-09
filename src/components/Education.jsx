@@ -3,7 +3,7 @@
 function Education(){
     return(
         <section className="w-full">
-            <div className="max-w-[1000px] my-0 mx-auto py-4">
+            <div className="w-[80%] max-w-[1000px] my-0 mx-auto py-15">
                 <div className="flex gap-2 items-center">
                     {/* the horizontal line */}
                     <div className="w-4 h-[2.5px] bg-gray-500"></div>
@@ -13,7 +13,7 @@ function Education(){
                 <h2 className="text-4xl py-4 font-bold">Education & Skills</h2>
 
                 {/* flex */}
-                <div className="flex justify-between py-6">
+                <div className="md:flex justify-between py-6">
 
                     {/* left div */}
                     {/* the vertical line */}
@@ -44,7 +44,7 @@ function Education(){
                     </div>
                    
                    {/* right div */}
-                   <div className="w-[50%]">
+                   <div className=" py-8 md:w-[50%]">
                         <p>For 5 + years , I have been continuously learning in the field of front-end and experimenting with new technologies and frameworks, and here you can see asummary of my skills.</p>
 
                         {/* progress bar */}
