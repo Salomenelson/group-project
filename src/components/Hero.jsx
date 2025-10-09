@@ -2,11 +2,11 @@
 function Hero(){
     return(
         <section className="w-full">
-            <div className="max-w-[1000px] my-0 mx-auto py-8">
-                <div className="flex items-center">
+            <div className="w-[80%] max-w-[1000px] my-0 mx-auto py-15">
+                <div className="md:flex items-center ">
 
                     {/* left div */}
-                    <div className="w-[50%]">
+                    <div className=" md:w-[50%]">
 
                         <div className="flex gap-2 items-center">
                             <div className="w-4 h-[2.5px] bg-gray-500"></div>
@@ -24,7 +24,7 @@ function Hero(){
                     </div>
                     
                     {/* right div */}
-                    <div className="w-[50%]">
+                    <div className="md:w-[50%]">
                         <img src="/Hero Image.png" alt="Hero Image" className="w-[100%]"/>
                     </div>
                 </div>
