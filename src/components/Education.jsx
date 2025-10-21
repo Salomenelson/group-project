@@ -44,7 +44,7 @@ function Education(){
                     </div>
                    
                    {/* right div */}
-                   <div className=" py-8 md:w-[50%]">
+                   <div className="py-8 md:w-[50%]">
                         <p>For 5 + years , I have been continuously learning in the field of front-end and experimenting with new technologies and frameworks, and here you can see asummary of my skills.</p>
 
                         {/* progress bar */}
