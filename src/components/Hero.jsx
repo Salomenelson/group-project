@@ -25,7 +25,7 @@ function Hero(){
                     
                     {/* right div */}
                     <div className="md:w-[50%]">
-                        <img src="/Hero Image.png" alt="Hero Image" className="w-[100%]"/>
+                        <img src="/Hero Image.png" alt="Hero Image" className="w-full"/>
                     </div>
                 </div>
             </div>
