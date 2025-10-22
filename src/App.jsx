@@ -1,15 +1,15 @@
-import Services from "./components/Services"
 import Header from './components/Header'
 import Hero from './components/Hero'
-import Heros from './components/Heros'
+import Services from "./components/Services"
+import Portfolio from "./components/Portfolio"
 
 function App() {
   return (
     <>
-      <Services/>
       <Header/>
       <Hero/>
-      <Heros/>
+      <Services/>
+      <Portfolio/>
     </>
   )
 }
