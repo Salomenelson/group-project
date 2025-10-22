@@ -1,5 +1,5 @@
 // Hero section
-function Hero(){
+function Heros(){
     return(
         <section className="w-full">
             <div className="w-[80%] max-w-[1000px] my-0 mx-auto py-15">
@@ -33,4 +33,4 @@ function Hero(){
     )
 }
 
-export default Hero
+export default Heros
