@@ -1,7 +1,7 @@
 // Experiences section
 function Experiences(){
     return(
-        <section className="w-full bg-[#fbfbfb]">
+        <section id="Experiences" className="w-full bg-[#fbfbfb]">
             <div className="w-[80%] max-w-[1000px] my-0 mx-auto py-15">
                 <div className="md:flex items-center justify-between ">
 
