@@ -57,7 +57,7 @@ function Header(){
                         <div>
                             <li className="py-2" ><a href="#Services">Services</a></li>
                             <li className="py-2" ><a href="#Portfolios">Portfolios</a></li>
-                            <li className="py-2"><a href="#Experience">Experience</a></li>
+                            <li className="py-2"><a href="#Experiences">Experience</a></li>
                             <li className="py-2" ><a href="#Blog">Blog</a></li>
                         </div>
 
