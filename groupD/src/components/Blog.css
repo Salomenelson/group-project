@@ -1,0 +1,83 @@
+@import "tailwindcss";
+body{
+    background-color: black;
+}
+.contain{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 4px 0;
+}
+.blog_1{
+    background-color: black;
+
+}
+.articles{
+    background-color: black;
+    color: #fff;
+    padding-bottom:  5%;
+    text-align: center;
+    
+}
+
+.articles p{
+    font-size: 20px;
+    color: rgb(129, 128, 128);
+    letter-spacing: 14px;
+    height: 20px;
+
+    
+}
+
+.articles h1{
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: 5px;
+   
+}
+
+.blog_2{
+    background-color: black;
+    color: white;
+     border: 2px white solid;
+     margin-top: -10px;
+     justify-items: left;
+     padding: 20px;
+}
+
+.date{
+    background-color: #fff;
+    color: black;
+    border-radius: 5px;
+    width: 45%;
+    font-size: 20px;
+}
+.text{
+    color: #aeacac;
+    padding-right: 10px;
+    justify-items: left;
+  
+}
+
+.reading{
+    color: #aeacac;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 30%;
+}
+
+img{
+    width: 99%;
+
+}
+
+.personal-area{
+    width: 33%;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+}
+
