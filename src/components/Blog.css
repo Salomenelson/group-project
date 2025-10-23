@@ -1,39 +1,10 @@
 @import "tailwindcss";
-body{
-    background-color: black;
-}
+
 .contain{
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
-    padding: 4px 0;
-}
-.blog_1{
-    background-color: black;
-
-}
-.articles{
-    background-color: black;
-    color: #fff;
-    padding-bottom:  5%;
-    text-align: center;
-    
-}
-
-.articles p{
-    font-size: 20px;
-    color: rgb(129, 128, 128);
-    letter-spacing: 14px;
-    height: 20px;
-
-    
-}
-
-.articles h1{
-    font-size: 70px;
-    font-weight: bolder;
-    margin-top: 5px;
-   
+    padding: 56px 0;
 }
 
 .blog_2{
@@ -50,7 +21,9 @@ body{
     color: black;
     border-radius: 5px;
     width: 45%;
-    font-size: 20px;
+    font-size: 15px;
+    margin: 5px 0;
+    padding: 3px 5px;
 }
 .text{
     color: #aeacac;
@@ -66,10 +39,10 @@ body{
     margin-left: 30%;
 }
 
-img{
+/* img{
     width: 99%;
 
-}
+} */
 
 .personal-area{
     width: 33%;
