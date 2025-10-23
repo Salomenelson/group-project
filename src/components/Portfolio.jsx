@@ -4,7 +4,7 @@ import {Portfoliocard} from "./Portfoliocard"
 
 function Portfolio(){
     return(
-        <section className="w-full">
+        <section id="Portfolio" className="w-full">
             <div className="w-[80%] max-w-[1000px] my-0 mx-auto py-15">
                 <div className="pb-8">
                         <div className="flex justify-between gap-2 pb-1">

@@ -4,7 +4,7 @@ import { Servicecard } from "./Servicecard"
 
 function Services(){
     return(
-        <section className="w-full bg-[#FBFBFB]">
+        <section id="Services" className="w-full bg-[#FBFBFB]">
             <div className="w-[80%] max-w-[1000px] my-0 mx-auto py-15">
                 <div className="text-center pb-8">
                     <div className="flex gap-2 items-center justify-center">

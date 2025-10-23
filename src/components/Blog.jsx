@@ -3,7 +3,7 @@ import { Blogs } from './Blogs'
 import './Blog.css'
 const Blog = () => {
   return (
-    <section className="w-full bg-black">
+    <section id='Blog' className="w-full bg-black">
       <div className="w-[80%] max-w-[1000px] my-0 mx-auto py-15">
         <div className='text-center pb-8'>
             <div className="flex gap-2 pb-2 items-center justify-center">

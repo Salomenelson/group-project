@@ -22,7 +22,7 @@ function Header(){
 
 
                     <div className="md:hidden">
-                        <button className="text-[#d7d7f9]" onClick={toogleMenu}>
+                        <button className="text-black" onClick={toogleMenu}>
                             <svg 
                             fill="none"
                             stroke="CurrentColor"
