@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+/* .contain{
+    width: 10%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 56px 0;
+} */
+
+.blog_2{
+    background-color: black;
+    color: white;
+    border: 2px white solid;
+    margin-top: -10px;
+    justify-items: left;
+    padding: 20px;
+}
+
+.date{
+    background-color: #fff;
+    color: black;
+    border-radius: 5px;
+    width: 45%;
+    font-size: 15px;
+    margin: 5px 0;
+    padding: 3px 5px;
+}
+.text{
+    color: #aeacac;
+    padding-right: 10px;
+    justify-items: left;
+  
+}
+
+.reading{
+    color: #aeacac;
+    padding: 10px;
+    margin-top: 40px;
+    /* margin-left: 30%; */
+}
+
+
+.personal-area{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.personal-area img{
+    width: 100%;
+}
+
+/* .container{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+} */
+
