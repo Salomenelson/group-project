@@ -7,6 +7,7 @@ import Blog from './components/Blog'
 import Testimonial from './components/Testimonial'
 import Education from './components/Education'
 import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Testimonial/>
       <Education/>
       <Contact/>
+      <Footer/>
     </>
   )
 }

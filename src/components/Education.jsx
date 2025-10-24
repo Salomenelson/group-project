@@ -21,21 +21,21 @@ function Education(){
                         <div className="w-fit">
                             <div className=" relative py-3">
                                 {/* the circle on the line */}
-                                <div className="absolute -left-[44px] w-5 h-5 bg-gray-200 rounded-full"></div>
+                                <div className="absolute -left-11 w-5 h-5 bg-gray-200 rounded-full"></div>
                                 <p className="text-[20px] font-semibold">Kingston university</p>
                                 <p className="pb-3 text-gray-900">Master's degree - Software Engineering</p>
                                 <p className="font-semibold">2019 - 2021</p>
                             </div>
 
                             <div className="relative py-3">
-                                <div className="absolute -left-[44px] w-5 h-5 bg-gray-200 rounded-full"></div>
+                                <div className="absolute -left-11 w-5 h-5 bg-gray-200 rounded-full"></div>
                                 <p className="text-[20px] font-semibold">Kingston university</p>
                                 <p className="pb-3 text-gray-900">Bachelor's degree - Computer Engineering</p>
                                 <p className="font-semibold">2015 - 2019</p>
                             </div>
 
                             <div className="relative py-3">
-                                <div className="absolute -left-[44px] w-5 h-5 bg-gray-200 rounded-full"></div>
+                                <div className="absolute -left-11 w-5 h-5 bg-gray-200 rounded-full"></div>
                                 <p className="text-[20px] font-semibold">Westminster School</p>
                                 <p className="pb-3 text-gray-900">Diploma's degree - Mathematics</p>
                                 <p className="font-semibold">2013 - 2015</p>
@@ -52,21 +52,21 @@ function Education(){
                             <div className="py-3">
                                 <p className="py-2 font-semibold">React</p>
                                 <div className="w-full bg-purple-300 h-2">
-                                    <div className="bg-purple-600 h-2 rounded-l-[2px]" style={{width:"70%"}}></div>
+                                    <div className="bg-purple-600 h-2 rounded-l-xs" style={{width:"70%"}}></div>
                                 </div>
                             </div>
 
                             <div className="py-3">
                                 <p className="py-2 font-semibold">Angular</p>
                                 <div className="w-full bg-purple-300 h-2 ">
-                                    <div className="bg-purple-600 h-2 rounded-l-[2px]" style={{width:"60%"}}></div>
+                                    <div className="bg-purple-600 h-2 rounded-l-xs" style={{width:"60%"}}></div>
                                 </div>
                             </div>
 
                             <div className="py-3 font-semibold">
                                 <p className="py-2">JavaScript</p>
                                 <div className="w-full bg-purple-300 h-2 ">
-                                    <div className="bg-purple-600 h-2 rounded-l-[2px]" style={{width:"70%"}}></div>
+                                    <div className="bg-purple-600 h-2 rounded-l-xs" style={{width:"70%"}}></div>
                                 </div>
                             </div>
                         </div>
