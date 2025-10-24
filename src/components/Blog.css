@@ -1,12 +1,5 @@
 @import "tailwindcss";
 
-/* .contain{
-    width: 10%;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 56px 0;
-} */
-
 .blog_2{
     background-color: black;
     color: white;
@@ -36,7 +29,6 @@
     color: #aeacac;
     padding: 10px;
     margin-top: 40px;
-    /* margin-left: 30%; */
 }
 
 
@@ -48,10 +40,4 @@
 .personal-area img{
     width: 100%;
 }
-
-/* .container{
-    display: flex;
-    gap: 20px;
-    width: 100%;
-} */
 
