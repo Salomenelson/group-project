@@ -4,6 +4,8 @@ import Services from "./components/Services"
 import Portfolio from "./components/Portfolio"
 import Experiences from './components/Experiences'
 import Blog from './components/Blog'
+import Testimonial from './components/Testimonial'
+
 function App() {
   return (
     <>
@@ -13,6 +15,7 @@ function App() {
       <Portfolio/>
       <Experiences/>
       <Blog/>
+      <Testimonial/>
     </>
   )
 }
